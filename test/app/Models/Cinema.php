@@ -1,0 +1,15 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Notifications\Notifiable;
+
+class Cinema extends Model
+{
+    use Notifiable;
+
+    protected $fillable = [
+        'name', 'numberOfHalls', 'rating',
+    ];
+}

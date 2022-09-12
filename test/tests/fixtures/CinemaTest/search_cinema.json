@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Kristall",
+    "numberOfHalls": 5,
+    "rating": 4
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 2,
+    "name": "Slava",
+    "numberOfHalls": 4,
+    "rating": 5,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 3,
+    "name": "Mayak",
+    "numberOfHalls": 10,
+    "rating": 4.1,
+    "created_at": null,
+    "updated_at": null
+  }
+]
